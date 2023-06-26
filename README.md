@@ -2,6 +2,8 @@
 
 This repository contains the **execuatable code** for paper [Supporting Clustering with Contrastive Learning (NAACL 2021)](https://aclanthology.org/2021.naacl-main.427.pdf) Dejiao Zhang, Feng Nan, Xiaokai Wei, Shangwen Li, Henghui Zhu, Kathleen McKeown, Ramesh Nallapati, Andrew Arnold, and Bing Xiang.
 
+#### Please refer to my blog https://blog.csdn.net/weixin_43594279/article/details/131250346?spm=1001.2014.3001.5502 for more details！
+
 ## Getting Started
 
 ### Dependencies:
